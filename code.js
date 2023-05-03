@@ -42,11 +42,11 @@ window.onload = function () {
     // Select Catagory
     var selectCat = function () {
       if (chosenCategory === categories[0]) {
-        catagoryName.innerHTML = "The Chosen Category is IPL Teams";
+        catagoryName.innerHTML = "The Below Category is a IPL Team";
       } else if (chosenCategory === categories[1]) {
-        catagoryName.innerHTML = "The Chosen Category is Movies";
+        catagoryName.innerHTML = "The Below Category is a Movie";
       } else if (chosenCategory === categories[2]) {
-        catagoryName.innerHTML = "The Chosen Category is Countries";
+        catagoryName.innerHTML = "The Below Category is a Country";
       }
     }
   
