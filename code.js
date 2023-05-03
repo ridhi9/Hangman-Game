@@ -195,7 +195,7 @@ window.onload = function () {
       buttons();
   
       geusses = [ ];
-      lives = 15;
+      lives = 10;
       counter = 0;
       space = 0;
       result();
